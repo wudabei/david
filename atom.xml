@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[吴大卫]]></title>
+  <link href="http://wudabei.github.io/david/atom.xml" rel="self"/>
+  <link href="http://wudabei.github.io/david/"/>
+  <updated>2014-01-14T17:01:29+08:00</updated>
+  <id>http://wudabei.github.io/david/</id>
+  <author>
+    <name><![CDATA[咖喱男]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
